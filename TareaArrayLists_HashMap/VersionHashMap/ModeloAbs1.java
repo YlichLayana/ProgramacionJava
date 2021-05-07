@@ -3,7 +3,7 @@ package TercerTrimestre.TareaArrayLists_HashMap.VersionHashMap;
 /**
  * Abstract class ModeloAbs - Clase de acceso a Modelo de DATOS
  * 
- * @author: Alberto Lopez Date: 24/04/2018
+ * @author: 
  */
 public abstract class ModeloAbs1 {
 	public ModeloAbs1() {
