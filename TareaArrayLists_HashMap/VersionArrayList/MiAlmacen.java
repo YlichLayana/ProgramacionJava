@@ -2,7 +2,7 @@ package TercerTrimestre.TareaArrayLists_HashMap.VersionArrayList;
 
 import java.util.Scanner;
 
-// Crear la clase Producto y completar los métodos
+// Crear la clase Producto y completar los mÃ©todos
 
 public class MiAlmacen {
 	// Defino como estaticas para que puedan usarse
@@ -62,9 +62,9 @@ public class MiAlmacen {
 		System.out.println("5. Compra de productos ");
 		System.out.println("6. Venta de productos ");
 		System.out.println("7. Listado completo de productos ");
-		System.out.println("8. Listado de productos con stock inferior al mínimo");
+		System.out.println("8. Listado de productos con stock inferior al mÃ­nimo");
 		System.out.println("9. Terminar ");
-		System.out.print("Elige una opción (1-9): ");
+		System.out.print("Elige una opciÃ³n (1-9): ");
 	}
 
 	// Lee un entero del System.in que este comprendido entre primero y ultimo
@@ -138,7 +138,7 @@ public class MiAlmacen {
 
 	private static void borrar() {
 		System.out.println("\n<ELIMINAR>");
-		// System.out.println("Aún no disponible");
+		// System.out.println("AÃºn no disponible");
 		// IMPLEMENTAR
 		System.out.print(" Introduzca codigo:");
 		int codigo = leerEntero();
@@ -227,20 +227,6 @@ public class MiAlmacen {
 	// Solicita datos al usuario para dar de alta un nuevo producto
 	// El codigo no se puede repetir
 	private static void crear() {
-//		@SuppressWarnings("unused")
-//		Producto prod;
-//		System.out.println("\n<NUEVO PRODUCTO>");
-//		System.out.print("    INGRESE DATOS DEL PRODUCTO\n|Codigo|-|Nombre|-|Stock|-|Stock Mini|-|Precio| ");
-//		String input = sc.nextLine();
-//		String[] values = input.split(" ");
-//		int cod = Integer.parseInt(values[0]);
-//		String name = values[1];
-//		int stock = Integer.parseInt(values[2]);
-//		int stockMin = Integer.parseInt(values[3]);
-//		float precio = Float.parseFloat(values[4]);
-//
-//		almacen.insertarProducto(prod = new Producto(cod, name, stock, stockMin, precio));
-
 		@SuppressWarnings("unused")
 		Producto prod;
 		System.out.println("\n<NUEVO PRODUCTO>");
