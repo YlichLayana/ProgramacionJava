@@ -1,4 +1,4 @@
-# ProgramacionJava
+# Tareas-Programacion-Java
 Este repositorio contiene Tareas
 
 En este repositorio crearemos tendremos dos proyectos donde utilizamos dos maneras distintas de implementarlos una es ArrayLits y la segunda es utilizando HashMap, donde cada uno de los proyecto vamos a Implementar una aplicación por consola que implemente un CRUD (Create, Read, Update, Delete) que sirve para mantener un almacén de productos con los siguientes campos que seran los atributos de nuestros objetos productos:
